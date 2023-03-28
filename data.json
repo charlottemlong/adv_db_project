@@ -1,0 +1,56 @@
+[
+    {
+      "item_name": "Selkie Rainbow Mini Dress",
+      "item_id": 1,
+      "info": {
+        "Color": "Multi",
+        "Length": 26.75,
+        "Fabric": "Polyester"
+      }
+    },
+    {
+      "item_name": "Farm Rio Banana Cover-Up Dress",
+      "item_id": 2,
+      "info": {
+        "Color": "Yellow",
+        "Length": 34,
+        "Fabric": "Cotton"
+      }
+    },
+    {
+      "item_name": "Reformation Zenni Dress",
+      "item_id": 3,
+      "info": {
+        "Color": "White",
+        "Length": 35,
+        "Fabric": "Polyester"
+      }
+    },
+    {
+      "item_name": "Selkie Strapless Mini Dress",
+      "item_id": 4,
+      "info": {
+        "Color": "Multi",
+        "Length": 24,
+        "Fabric": "Polyester"
+      }
+    },
+    {
+      "item_name": "Aureta Studio Corset Bubble Dress",
+      "item_id": 5,
+      "info": {
+        "Color": "Raspberry",
+        "Length": 33.5,
+        "Fabric": "Rayon"
+      }
+    },
+    {
+      "item_name": "Jyoti Twist-Front Dress",
+      "item_id": 6,
+      "info": {
+        "Color": "Multi",
+        "Length": 33.5,
+        "Fabric": "Rayon"
+      }
+    }
+]
